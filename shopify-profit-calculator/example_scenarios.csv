@@ -1,0 +1,4 @@
+scenario,selling_price,product_cost,shipping,fee_percent,ad_cac,cod_share,rto_among_cod
+Base,1200,420,75,3,280,40,15
+Conservative,1100,450,90,3.5,350,60,22
+Optimistic,1300,400,70,2.5,220,25,10
